@@ -42,7 +42,7 @@ google_analytics:
 
 theme_mode: # [light|dark]
 
-img_cdn: https://raw.githubusercontent.com/demapmusbr/cdn/logos/
+img_cdn: https://raw.githubusercontent.com/demapmusbr/cdn/refs/heads/main/logos/
 
 avatar: logo.png
 
