@@ -6,7 +6,7 @@ lang: pt-BR
 
 timezone: America/Sao_Paulo
 
-title: DEMAP
+title: demap.
 
 tagline: Reviews de músicas
 
@@ -42,9 +42,9 @@ google_analytics:
 
 theme_mode: # [light|dark]
 
-img_cdn: https://raw.githubusercontent.com/demapmusbr/cdn
+img_cdn: https://raw.githubusercontent.com/demapmusbr/cdn/logos/
 
-avatar: logos/logo.png
+avatar: logo.png
 
 toc: true
 
