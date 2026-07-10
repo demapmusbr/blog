@@ -1,5 +1,5 @@
 ---
-title: Demapariessa
+title: Demapariêssa
 author: gabrielkonautt
 date: 2026-07-10 01:01:00 +0300
 categories: [Faixas, Álbuns, EPs, Clássicos, Descobertas, Letras, Produção, Ensaios, Listas, Editorial, Artistas]
