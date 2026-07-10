@@ -21,7 +21,7 @@ order: 1
 
 [//]: # (| Letras      | Foco principal na composição       |)
 
-[//]: # (| Produção    | Arranjos, mixagem, sonoridade      |)
+[//]: # (| Produções    | Arranjos, mixagem, sonoridade      |)
 
 [//]: # (| Ensaios     | Textos opinativos sobre música     |)
 
