@@ -1,5 +1,5 @@
 ---
 layout: archives
-icon: fas fa-archive
+icon: far fa-play-circle
 order: 3
 ---
