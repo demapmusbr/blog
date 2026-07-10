@@ -2,7 +2,7 @@
 title: Demapariêssa
 author: gabrielkonautt
 date: 2026-07-10 01:01:00 +0300
-categories: [Faixas, Álbuns, EPs, Clássicos, Descobertas, Letras, Produção, Ensaios, Listas, Editorial, Artistas]
+categories: [Editorial]
 tags: [demap., demapariêssa, música, análise musical, crítica musical, resenha musical, música brasileira, música internacional, música pop, música eletrônica, música clássica, música experimental, música independente]
 pin: false
 ---
