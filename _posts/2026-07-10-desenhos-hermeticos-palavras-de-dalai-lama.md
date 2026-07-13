@@ -7,7 +7,7 @@ tags: [música brasileira, mpb, vanessa da mata]
 pin: false
 ---
 
-## Baú.
+## Baú
 
 **Artista:** Vanessa da Mata
 
