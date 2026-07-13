@@ -11,7 +11,7 @@ pin: false
 
 **Faixa:** Mind Loaded
 
-**Artistas:** Blood Orange, Caroline Polachek, Lorde, Mustafa
+**Artista:** Blood Orange, Caroline Polachek, Lorde, Mustafa
 
 **Álbum:** N/A
 
