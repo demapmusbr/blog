@@ -20,6 +20,7 @@ pin: false
 **Gênero:** Música Experimental, Música pop
 
 ------
+![SOPHIE IN FACESHOPPING](https://lastfm.freetls.fastly.net/i/u/770x0/ccc819eb0697c6185bc6b663e17bce58.gif#ccc819eb0697c6185bc6b663e17bce58)
 
 Dolore ipsum vero at diam eirmod veniam dolor ex ea no vero. Justo stet justo et ex at iriure takimata placerat duis eros takimata amet vero. Duo augue mazim illum dolore labore praesent consequat feugait magna eos dolor. Hendrerit sea nonumy sit ipsum feugiat consetetur. Eum stet veniam eirmod est minim accusam est kasd duo iriure. 
 
