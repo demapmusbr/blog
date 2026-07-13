@@ -22,7 +22,7 @@ pin: false
 **Gênero:** Música Experimental, Música pop
 
 ------
-![SOPHIE IN FACESHOPPING](https://lastfm.freetls.fastly.net/i/u/770x0/ccc819eb0697c6185bc6b663e17bce58.gif#ccc819eb0697c6185bc6b663e17bce58)
+![Caroline Polachek](https://lastfm.freetls.fastly.net/i/u/770x0/734c1733d27e3573e8f7904a6ca5d5c6.jpg#734c1733d27e3573e8f7904a6ca5d5c6)
 
 Dolore ipsum vero at diam eirmod veniam dolor ex ea no vero. Justo stet justo et ex at iriure takimata placerat duis eros takimata amet vero. Duo augue mazim illum dolore labore praesent consequat feugait magna eos dolor. Hendrerit sea nonumy sit ipsum feugiat consetetur. Eum stet veniam eirmod est minim accusam est kasd duo iriure. 
 
@@ -34,210 +34,197 @@ Dolor et in kasd rebum est diam clita accusam justo elitr sed voluptua magna duo
 
 ## Letra Completa
 
-### Faceshopping (Compra de Rostos)
+### Dang (Eita)
 
 ```
-Meu rosto é a vitrine da loja
-My face is the front of shop
+Eita
+Dang
 
-Meu rosto é a verdadeira vitrine
-My face is the real shop front
+(Da-da-da-da) eita
+(Da-da-da-da) dang
 
-Minha loja é o rosto que eu encaro
-My shop is the face I front
+(Ah-da-da-da-da) eita
+(Ah-da-da-da-da) dang
 
-Eu sou verdadeira quando compro meu rosto
-I'm real when I shop my face
+(Ah-da-da-da-da) eita
+(Ah-da-da-da-da) dang
 
+(Da-da-da-da) eita
+(Da-da-da-da) dang
 
-Flor artificial
-Artificial bloom
+(Ah-da-da-da-da) eita
+(Ah-da-da-da-da) dang
 
-Pele hidropônica
-Hydroponic skin
+(Ah-da-da-da-da) eita
+(Ah-da-da-da-da) dang
 
-Vazamento químico
-Chemical release
+Chego como um naufrágio ao contrário
+Pull up like a shipwreck in reverse
 
-Sintetiza o real
-Synthesise the real
+Sim, eu faço, sim, eu faço
+Yeah, I do, yeah, I do
 
-Cirurgia plástica
-Plastic surgery
+Talvez seja para sempre
+Maybe it's forever
 
-Linguagem formal
-Social dialect
+Talvez seja apenas xampu
+Maybe it's just shampoo
 
-Resultados positivo
-Positive results
+Eita
+Dang
 
-Documentos de vida
-Documents of life
+Mary Poppins abriu a bolsa como eu faço
+Mary Poppins opened up the purse like I do
 
+Sim, eu faço
+Yeah, I do
 
-Oh
-Oh
+Quem é uma gatinha urbana
+Who's a pretty city kitty
 
-Nana-nana-nana-nana
-Nana-nana-nana-nana
+Bebericando Chartreuse?
+Sippin' on Chartreuse?
 
-Nana-nana-nana-nana-na
-Nana-nana-nana-nana-na
+Eita
+Dang
 
-Na-na-na-na-na
-Na-na-na-na-na
+É uma pena, sim
+It's a shame, yeah
 
-Na-nana-nana
-Na-nana-nana
+É uma pena
+It's a shame
 
+Derramei o leite na cama
+I spilled the milk on the bed
 
-Meu rosto é a vitrine da loja
-My face is the front of shop
+É o meu rosto
+It's my face
 
-Meu rosto é a verdadeira vitrine
-My face is the real shop front
+É apenas um rosto, sim
+It's just a face, yeah
 
-Minha loja é o rosto que eu encaro
-My shop is the face I front
+Com as bochechas ficando vermelhas
+With the cheeks turnin' red
 
-Eu sou verdadeira quando compro meu rosto
-I'm real when I shop my face
+(Da-da-da-da) eita
+(Da-da-da-da) dang
 
+(Ah-da-da-da-da) eita
+(Ah-da-da-da-da) dang
 
-Bisturi, batom, gel
-Scalpel, lipstick, gel
+(Ah-da-da-da-da) eita
+(Ah-da-da-da-da) dang
 
-Ação, câmera, luzes
-Action, camera, lights
+Me conte mais
+Tell me more
 
-Violência no seu coração
-Violence in your heart
+(Da-da-da-da) eita
+(Da-da-da-da) dang
 
-Memórias de amor (o quê?)
-Memories of love (what?)
+(Ah-da-da-da-da) eita
+(Ah-da-da-da-da) dang
 
-Professor?
-Professor?
+(Ah-da-da-da-da) eita
+(Ah-da-da-da-da) dang
 
+Me conte mais
+Tell me more
 
-Oh
-Oh
+Ba (eita), ba-ba-ba (eita), ba-ba-ba (eita)
+Ba (dang), ba-ba-ba (dang), ba-ba-ba (dang)
 
-Nana-nana-nana-nana (segure)
-Nana-nana-nana-nana (Hold it)
+Me conte mais
+Tell me more
 
-Nana-nana-nana-nana-na
-Nana-nana-nana-nana-na
+Ba (eita), ba-ba-ba (eita), ba-ba-ba-ba (eita)
+Ba (dang), ba-ba-ba (dang), ba-ba-ba-ba (dang)
 
-Na-na-na-na-na
-Na-na-na-na-na
+Sempre atrasada
+Always running late
 
-Na-nana-nana
-Na-nana-nana
+Mas, garoto, sou pontual para você
+But, boy, I'm on time for you
 
+Sim, eu sou
+Yeah, I do
 
-Meu rosto é a vitrine da loja
-My face is the front of shop
+Cuidado com o que deseja
+Careful what you wish for
 
-Meu rosto é a verdadeira vitrine
-My face is the real shop front
+Porque pode se tornar realidade
+'Cause it might just come true
 
-Minha loja é o rosto que eu encaro
-My shop is the face I front
+Eita
+Dang
 
-Eu sou verdadeira quando compro meu rosto
-I'm real when I shop my face
+É uma pena, sim
+It's a shame, yeah
 
+É uma pena
+It's a shame
 
-Então você deve ser a pessoa
-So you must be the one
+Derramei o leite na cama
+I spilled the milk on the bed
 
-Que eu vi nos meus sonhos
-That I've seen in my dreams
+É o meu rosto
+It's my face
 
-Venha, me toque
-Come on, touch me
+É apenas um rosto, sim
+It's just a face, yeah
 
-Liberte meu espírito
-Set my spirit free
+Com as bochechas ficando vermelhas
+With the cheeks turnin' red
 
-Oh, me teste
-Oh, test me
+Ah
+Aah
 
-Você sente o quê eu sinto?
-Do you feel what I feel?
+Ah-ah-ah-ah-ah-ah-ah, ah-ah, ah
+Ah-ah-ah-ah-ah-ah-ah, ah-ah, ah
 
-Você vê o quê eu vejo?
-Do you see what I see?
+Ah-ah-ah-ah-ah-ah-ah
+Ah-ah-ah-ah-ah-ah-ah
 
-Oh, me reduza à insignificância
-Oh, reduce me to nothingness
+Eita
+Dang
 
-Sim, sim
-Yes, yes
+(Da-da-da-da) eita
+(Da-da-da-da) dang
 
+(Ah-da-da-da-da) eita
+(Ah-da-da-da-da) dang
 
-Meu rosto é a vitrine da loja
-My face is the front of shop
+(Ah-da-da-da-da) eita
+(Ah-da-da-da-da) dang
 
-Meu rosto é a verdadeira vitrine
-My face is the real shop front
+Me conte mais
+Tell me more
 
-Minha loja é o rosto que eu encaro
-My shop is the face I front
+(Da-da-da-da) eita
+(Da-da-da-da) dang
 
-Eu sou verdadeira quando compro meu rosto
-I'm real when I shop my face
+(Ah-da-da-da-da) eita
+(Ah-da-da-da-da) dang
 
+(Ah-da-da-da-da) eita
+(Ah-da-da-da-da) dang
 
-E você sabe o que eu quero
-And you know what I want
+Ba (eita), ba-ba-ba (eita), ba-ba-ba (eita)
+Ba (dang), ba-ba-ba (dang), ba-ba-ba (dang)
 
-Meu rosto é a vitrine da loja
-My face is the front of shop
+Me conte mais
+Tell me more
 
-Então me dê o que eu quero
-So give me what I want
+Ba (eita), ba-ba-ba (eita), ba-ba-ba-ba (eita)
+Ba (dang), ba-ba-ba (dang), ba-ba-ba-ba (dang)
 
-Meu rosto é a verdadeira vitrine
-My face is the real shop front
+Me conte mais
+Tell me more
 
-Eu disse tudo que eu quero
-I said everything I want
+Eita
+Dang
 
-Minha loja é o rosto que eu encaro
-My shop is the face I front
-
-Então me dê o que eu quero
-So give me what I want
-
-Eu sou verdadeira quando compro meu rosto
-I'm real when I shop my face
-
-
-E você sabe o que eu quero
-And you know what I want
-
-Meu rosto é a vitrine da loja
-My face is the front of shop
-
-Então me dê o que eu quero
-So give me what I want
-
-Meu rosto é a verdadeira vitrine
-My face is the real shop front
-
-Eu disse tudo que eu quero
-I said everything I want
-
-Minha loja é o rosto que eu encaro
-My shop is the face I front
-
-Então me dê o que eu quero
-So give me what I want
-
-Eu sou verdadeira quando compro meu rosto
-I'm real when I shop my face
+Eita
+Dang
 ```
 
 -------
