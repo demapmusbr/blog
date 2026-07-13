@@ -1,5 +1,5 @@
 ---
-title: Ah, sacré papa...
+title: Stromae - Papaoutai
 author: gabrielkonautt
 date: 2026-07-13 01:01:00 +0300
 categories: [Faixas]
@@ -7,7 +7,9 @@ tags: [música francesa, música belga, eurodance, rumba congolesa, música pop,
 pin: false
 ---
 
-## Papaoutai (Papai, Cadê Você?)
+## Ah, sacré papa...
+
+**Faixa:** Papaoutai
 
 **Artista:** Stromae
 

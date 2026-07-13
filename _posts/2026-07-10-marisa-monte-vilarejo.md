@@ -1,15 +1,17 @@
 ---
-title: Acabou-se solidão.
+title: Marisa Monte - Vilarejo
 author: gabrielkonautt
 date: 2026-07-10 01:01:00 +0300
 categories: [Faixas]
-tags: [música brasileira, mpb, lenine, ney matogrosso, lula queiroga]
+tags: [música brasileira, mpb, marisa monte]
 pin: false
 ---
 
-## Se Não For Amor, Eu Cegue.
+## Em todas as mesas, pão.
 
-**Artista:** Vários Artistas
+**Faixa:** Vilarejo
+
+**Artista:** Marisa Monte
 
 **Álbum:** N/A
 
@@ -32,39 +34,73 @@ Dolor et in kasd rebum est diam clita accusam justo elitr sed voluptua magna duo
 ## Letra Completa
 
 ```
-Pode ser um lapso do tempo
-E a partir desse momento acabou-se solidão
-Pinga gota a gota o sentimento
-Que escorrega pela veia e vai bater no coração
+Há um vilarejo ali
+Onde areja um vento bom
+Na varanda, quem descansa
+Vê o horizonte deitar no chão
 
-Quando vê já foi pro pensamento
-Já mexeu na sua vida, já varreu sua razão
-Acelera a asa do sorriso
-Muda o colorido, vira o ponto de visão
+Pra acalmar o coração
+Lá o mundo tem razão
+Terra de heróis, lares de mãe
+Paraíso se mudou para lá
 
-Cai o medo tolo, cai o rumo
-Quando a terra sai do prumo eu estou perto de ti
-Abre-se a comporta da represa
-Desviando a natureza pra um lugar que eu nunca vi
+Por cima das casas, cal
+Frutos em qualquer quintal
+Peitos fartos, filhos fortes
+Sonhos semeando o mundo real
 
-Uma vida é pouco para tanto
-Mas no meio desse encanto tempo deixa de existir
-E é como tocar a eternidade
-É como se hoje fosse o dia em que eu nasci
+Toda gente cabe lá
+Palestina, Xangri-Lá
+Vem andar e voa
+Vem andar e voa
+Vem andar e voa
 
-Livre, quando vem e leva
-Lava a alma, leve e vai tranquila
-E a pupila acesa do seu olho disse love
+Lá o tempo espera
+Lá é primavera
+Portas e janelas
+Ficam sempre abertas
+Pra sorte entrar
 
-Bem, se não for amor eu cegue
-Bem, se não for amor eu fico
-Eu sigo, sigo, sigo, eu fico cego por ti
+Em todas as mesas, pão
+Flores enfeitando
+Os caminhos, os vestidos
+Os destinos e essa canção
+Tem um verdadeiro amor
+Para quando você for
 
-Bem, se não for amor eu cegue
-Bem, se não for amor eu fico
-Eu sigo, sigo, sigo, eu fico cego por ti
+Há um vilarejo ali
+Onde areja um vento bom
+Na varanda, quem descansa
+Vê o horizonte deitar no chão
 
-Eu fico cego por ti
+Pra acalmar o coração
+Lá o mundo tem razão
+Terra de heróis, lares de mãe
+Paraíso se mudou para lá
+
+Por cima das casas, cal
+Frutos em qualquer quintal
+Peitos fartos, filhos fortes
+Sonhos semeando o mundo real
+
+Toda gente cabe lá
+Palestina, Xangri-Lá
+Vem andar e voa
+Vem andar e voa
+Vem andar e voa
+
+Lá o tempo espera
+Lá é primavera
+Portas e janelas
+Ficam sempre abertas
+Pra sorte entrar
+
+Em todas as mesas, pão
+Flores enfeitando
+Os caminhos, os vestidos
+Os destinos e essa canção
+Tem um verdadeiro amor
+Para quando você for
 ```
 
 -------

@@ -1,23 +1,25 @@
 ---
-title: Em todas as mesas, pão.
+title: Vanessa da Mata - Baú
 author: gabrielkonautt
 date: 2026-07-10 01:01:00 +0300
 categories: [Faixas]
-tags: [música brasileira, mpb, marisa monte]
+tags: [música brasileira, mpb, vanessa da mata]
 pin: false
 ---
 
-## Vilarejo
+## Desenhos Herméticos, palavras de Dalai Lama...
 
-**Artista:** Vários Artistas
+**Faixa:** Baú
 
-**Álbum:** N/A
+**Artista:** Vanessa da Mata
 
-**Ano:** N/A
+**Álbum:** Essa Boneca Tem Manual
 
-**Duração:** N/A
+**Ano:** 2004
 
-**Gênero:** N/A
+**Duração:** 3:54
+
+**Gênero:** MPB
 
 ------
 
@@ -32,74 +34,59 @@ Dolor et in kasd rebum est diam clita accusam justo elitr sed voluptua magna duo
 ## Letra Completa
 
 ```
-Há um vilarejo ali
-Onde areja um vento bom
-Na varanda, quem descansa
-Vê o horizonte deitar no chão
+Sabe de uma coisa Seu
+Vou lhe jogar no meu baú
+Vivo e mágico
+Com as coisas boas que tem lá
 
-Pra acalmar o coração
-Lá o mundo tem razão
-Terra de heróis, lares de mãe
-Paraíso se mudou para lá
+Os meus desenhos herméticos
+As palavras de Da Lai Lama
+Quem sabe você adora
+Quem sabe se transformará
 
-Por cima das casas, cal
-Frutos em qualquer quintal
-Peitos fartos, filhos fortes
-Sonhos semeando o mundo real
+Meu bauzinho de memória
+Os meus livrinhos de receita
+Quem sabe se sensibiliza
+Quem sabe se transformará
 
-Toda gente cabe lá
-Palestina, Xangri-Lá
-Vem andar e voa
-Vem andar e voa
-Vem andar e voa
+Vamos seguindo acordando cedo
+Você só reclama não age
+Você fica dormindo à tarde
+E tudo vai dando nos nervos
 
-Lá o tempo espera
-Lá é primavera
-Portas e janelas
-Ficam sempre abertas
-Pra sorte entrar
+Vamos seguindo acordando cedo
+Você só reclama, não age
+Você fica dormindo à tarde
+E tudo vai dando nos nervos
 
-Em todas as mesas, pão
-Flores enfeitando
-Os caminhos, os vestidos
-Os destinos e essa canção
-Tem um verdadeiro amor
-Para quando você for
+Não corre atrás das suas coisas
+Vive aqui choramingando
+Todos já foram embora
+Você só sabe reclamar
 
-Há um vilarejo ali
-Onde areja um vento bom
-Na varanda, quem descansa
-Vê o horizonte deitar no chão
+A voz doce de João
+Amansará sua revolta
+A comida de Dona Vantina
+Quem sabe se transformará
 
-Pra acalmar o coração
-Lá o mundo tem razão
-Terra de heróis, lares de mãe
-Paraíso se mudou para lá
+Rancoroso com raiva de tudo
+Do fulano com seu carro novo
+Não vê que ele trabalhou muito
+Você pode se esforçar
 
-Por cima das casas, cal
-Frutos em qualquer quintal
-Peitos fartos, filhos fortes
-Sonhos semeando o mundo real
+Pois vamos seguindo acordando cedo
+Você só reclama não age
+Você fica dormindo à tarde
+E tudo vai dando nos nervos
 
-Toda gente cabe lá
-Palestina, Xangri-Lá
-Vem andar e voa
-Vem andar e voa
-Vem andar e voa
-
-Lá o tempo espera
-Lá é primavera
-Portas e janelas
-Ficam sempre abertas
-Pra sorte entrar
-
-Em todas as mesas, pão
-Flores enfeitando
-Os caminhos, os vestidos
-Os destinos e essa canção
-Tem um verdadeiro amor
-Para quando você for
+Vamos seguindo acordando cedo
+Você só reclama não age
+Você fica dormindo à tarde
+E tudo vai dando nos nervos
 ```
+
+
+> Gabriel Konautt
 
 -------
 

@@ -1,5 +1,5 @@
 ---
-title: Violence in Your Heart
+title: SOPHIE - Faceshopping
 author: gabrielkonautt
 date: 2026-07-13 01:01:00 +0300
 categories: [Faixas]
@@ -7,7 +7,9 @@ tags: [música experimental, música underground, música pop, sophie]
 pin: false
 ---
 
-## Faceshopping (Compra de Rostos)
+## Violence in Your Heart
+
+**Faixa:** Faceshopping
 
 **Artista:** SOPHIE
 

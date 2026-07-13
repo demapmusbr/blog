@@ -1,23 +1,25 @@
 ---
-title: Desenhos Herméticos, palavras de Dalai Lama...
+title: Lenine - Se Não For Amor, Eu Cegue
 author: gabrielkonautt
 date: 2026-07-10 01:01:00 +0300
 categories: [Faixas]
-tags: [música brasileira, mpb, vanessa da mata]
+tags: [música brasileira, mpb, lenine, ney matogrosso, lula queiroga]
 pin: false
 ---
 
-## Baú
+## Acabou-se solidão.
 
-**Artista:** Vanessa da Mata
+**Faixa:** Se Não For Amor, Eu Cegue
 
-**Álbum:** Essa Boneca Tem Manual
+**Artista:** Lenine
 
-**Ano:** 2004
+**Álbum:** N/A
 
-**Duração:** 3:54
+**Ano:** N/A
 
-**Gênero:** MPB
+**Duração:** N/A
+
+**Gênero:** N/A
 
 ------
 
@@ -32,59 +34,40 @@ Dolor et in kasd rebum est diam clita accusam justo elitr sed voluptua magna duo
 ## Letra Completa
 
 ```
-Sabe de uma coisa Seu
-Vou lhe jogar no meu baú
-Vivo e mágico
-Com as coisas boas que tem lá
+Pode ser um lapso do tempo
+E a partir desse momento acabou-se solidão
+Pinga gota a gota o sentimento
+Que escorrega pela veia e vai bater no coração
 
-Os meus desenhos herméticos
-As palavras de Da Lai Lama
-Quem sabe você adora
-Quem sabe se transformará
+Quando vê já foi pro pensamento
+Já mexeu na sua vida, já varreu sua razão
+Acelera a asa do sorriso
+Muda o colorido, vira o ponto de visão
 
-Meu bauzinho de memória
-Os meus livrinhos de receita
-Quem sabe se sensibiliza
-Quem sabe se transformará
+Cai o medo tolo, cai o rumo
+Quando a terra sai do prumo eu estou perto de ti
+Abre-se a comporta da represa
+Desviando a natureza pra um lugar que eu nunca vi
 
-Vamos seguindo acordando cedo
-Você só reclama não age
-Você fica dormindo à tarde
-E tudo vai dando nos nervos
+Uma vida é pouco para tanto
+Mas no meio desse encanto tempo deixa de existir
+E é como tocar a eternidade
+É como se hoje fosse o dia em que eu nasci
 
-Vamos seguindo acordando cedo
-Você só reclama, não age
-Você fica dormindo à tarde
-E tudo vai dando nos nervos
+Livre, quando vem e leva
+Lava a alma, leve e vai tranquila
+E a pupila acesa do seu olho disse love
 
-Não corre atrás das suas coisas
-Vive aqui choramingando
-Todos já foram embora
-Você só sabe reclamar
+Bem, se não for amor eu cegue
+Bem, se não for amor eu fico
+Eu sigo, sigo, sigo, eu fico cego por ti
 
-A voz doce de João
-Amansará sua revolta
-A comida de Dona Vantina
-Quem sabe se transformará
+Bem, se não for amor eu cegue
+Bem, se não for amor eu fico
+Eu sigo, sigo, sigo, eu fico cego por ti
 
-Rancoroso com raiva de tudo
-Do fulano com seu carro novo
-Não vê que ele trabalhou muito
-Você pode se esforçar
-
-Pois vamos seguindo acordando cedo
-Você só reclama não age
-Você fica dormindo à tarde
-E tudo vai dando nos nervos
-
-Vamos seguindo acordando cedo
-Você só reclama não age
-Você fica dormindo à tarde
-E tudo vai dando nos nervos
+Eu fico cego por ti
 ```
-
-
-> Gabriel Konautt
 
 -------
 
