@@ -1,5 +1,5 @@
 ---
-title: Dang - Caroline Polachek
+title: Caroline Polachek - Dang
 author: gabrielkonautt
 date: 2026-07-13 01:01:00 +0300
 categories: [Faixas]
